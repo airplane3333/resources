@@ -43,7 +43,7 @@ had the correct data splices.
 Based on analysis from kickstarter data, campaigns were more successful than failed except for December which were nearly 
 the same at 37 successful vs 35 that failed.  May thru July had the most successful campaign totals with May having 111 successful 
 outcomes, over twice the number of failed campaigns at 52 
----
+
 Many of the campaign with less that $15,000 fund raising goals were successful.  As the campaign goals increase beyond, they 
 become less successful until reaching greater than $35000 as the goal.  There are 960 total campaigns during the timeframe 
 of 2009-2017 that were less than $15000 but only 9 campaigns with a goal of $35000 to less than $45000, so the data is smaller.  
