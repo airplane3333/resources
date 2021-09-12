@@ -8,14 +8,13 @@ Using data of kickstarter campaign from 2009 to 2017 to identify the best time t
 ---
 A friend of mine, Louise had a successful fundraising campaign for her play “Fever”.  Thinking about starting a new campaign, 
 she wanted to know how different campaigned fared based on their launch date and how campaigned fared to the outcome of their goals. 
----   
+
 ### Analysis and Challenges
 ---
 Using a large dataset provided for kickstarter campaigns, I used advanced functions within Excel.  I had to create new data 
 elements from the provided data, then use pivot tables to splice the correct data to focus on theater and plays among the many 
 different groups source within the data.  Then applying different excel formula to formulate some analysis before visualizing 
 the data using excel charts.  
----
 
 ### Analysis of Outcomes Based on Launch Date
 ---
@@ -30,7 +29,7 @@ the total successful fundraising campaign.
 Reviewing the Kickstarter data, plays with a smaller goal amount are more likely to be successful meeting their campaign goals.  
 AT $15,000 to $19999 is where the success and failed campaign are evenly split with 50% becoming successful or failed.  
 Of note, there were not any canceled campaign in the data from 2009 to 2017. 
----
+
 ![Outcomes Based on Goal](/Outcomes_vs_Goals.png)   
 ---
 ### Challenges and Difficulties Encountered
