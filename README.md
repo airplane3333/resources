@@ -21,7 +21,7 @@ the data using excel charts.
 Reviewing the Kickstarter data, the best months to start a theater campaign would be May-July with May having the most success
 of launching 111 successful fundraising starts.  May also has the highest number of failed campaign, but making up less than half
 the total successful fundraising campaign.
- ---
+ 
 ![Theater Outcomes by Launch Date](/Theater_Outcomes_vs_Launch.png) 
 ---
 ### Analysis of Outcomes Based on Goals
