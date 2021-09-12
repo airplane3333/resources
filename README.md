@@ -3,7 +3,7 @@
 ## Overview of Project
 ---
 Using data of kickstarter campaign from 2009 to 2017 to identify the best time to start a campaign and goals that were successful.  
----
+
 ### Purpose
 ---
 A friend of mine, Louise had a successful fundraising campaign for her play “Fever”.  Thinking about starting a new campaign, 
