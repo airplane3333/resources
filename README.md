@@ -1,13 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+---
 Using data of kickstarter campaign from 2009 to 2017 to identify the best time to start a campaign and goals that were successful.  
 ---
 ### Purpose
+---
 A friend of mine, Louise had a successful fundraising campaign for her play “Fever”.  Thinking about starting a new campaign, 
 she wanted to know how different campaigned fared based on their launch date and how campaigned fared to the outcome of their goals. 
 ---   
 ### Analysis and Challenges
+---
 Using a large dataset provided for kickstarter campaigns, I used advanced functions within Excel.  I had to create new data 
 elements from the provided data, then use pivot tables to splice the correct data to focus on theater and plays among the many 
 different groups source within the data.  Then applying different excel formula to formulate some analysis before visualizing 
@@ -15,13 +18,15 @@ the data using excel charts.
 ---
 
 ### Analysis of Outcomes Based on Launch Date
+---
 Reviewing the Kickstarter data, the best months to start a theater campaign would be May-July with May having the most success
 of launching 111 successful fundraising starts.  May also has the highest number of failed campaign, but making up less than half
 the total successful fundraising campaign.
  ---
-![Theater Outcomes by Launch Date](/Theater_Octcomes_vs_Launch.png) 
+![Theater Outcomes by Launch Date](/Theater_Outcomes_vs_Launch.png) 
 ---
 ### Analysis of Outcomes Based on Goals
+---
 Reviewing the Kickstarter data, plays with a smaller goal amount are more likely to be successful meeting their campaign goals.  
 AT $15,000 to $19999 is where the success and failed campaign are evenly split with 50% becoming successful or failed.  
 Of note, there were not any canceled campaign in the data from 2009 to 2017. 
@@ -29,10 +34,12 @@ Of note, there were not any canceled campaign in the data from 2009 to 2017.
 ![Outcomes Based on Goal](/Outcomes_vs_Goals.png)   
 ---
 ### Challenges and Difficulties Encountered
+---
 I didn't have many difficulties, but did have to identify a few issues with my graphs and making sure the goal ranges 
 had the correct data splices.
 
 ### Results
+---
 Based on analysis from kickstarter data, campaigns were more successful than failed except for December which were nearly 
 the same at 37 successful vs 35 that failed.  May thru July had the most successful campaign totals with May having 111 successful 
 outcomes, over twice the number of failed campaigns at 52 
